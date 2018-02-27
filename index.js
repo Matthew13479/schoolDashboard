@@ -5,6 +5,6 @@ $(document).on("keypress", function (e) {
 });
 
 function hideForEdumate() {
-    $("#checklist").hide();
-    $(".checklist-hidden").show();
+    $("").hide();
+    $(".").show();
 }
