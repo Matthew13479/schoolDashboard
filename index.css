@@ -1,31 +1,39 @@
-*{
-    background-color: grey;
-    border: 2px dotted;
-    font-family: "Comic Sans MS", sans-serif;
+nav .brand-logo {
+    padding-left: 15px;
 }
-.top{
-    font-size: 3vw;
-    font-style: initial;
-    margin: 0vw;
+nav .nav-wrapper{
+    background-color: #29b6f6;
+}
+.page-footer {
+    background-color: #29b6f6;
     text-align: center;
 }
-#title{
-    margin: 0vw;
-    border-bottom: medium solid;
+.row .col.m5 {
+    padding-top: 20px;
+    width: 670px;
 }
-.calendar{
-    margin: 0px;
-    width: 300px;
-    border: 0px;
-    float: left;
+.header-api {
+    font-size: 18px;
 }
-.edumate{
-    text-align: right;
-    float: right;
+.card .card-content {
+    padding: 20px;
 }
-#edumateHeader, #calendarHeader{
-    border-width: 0px;
-    font-size: 1.5vw;
-    margin: 0px;
-    border: 0px;
+.row .col.m7 {
+    padding-top: 20px;
+    width: 760px;
+}
+.card-action-1 {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 13px;
+}
+.copyright-text {
+    padding-top: 0px;
+    padding-left: 20px;
+}
+.page-footer .footer-copyright {
+    padding: 0px;
+}
+.row .col.m6 {
+    width: 490px;
 }
