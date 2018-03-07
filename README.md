@@ -1,1 +1,1 @@
-# schoolDashboard
+# Welcome to my School Dashboard
